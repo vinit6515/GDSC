@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "GDSCFinal",
+    "slug": "GDSCFinal",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "GDSCFinal"
+}
